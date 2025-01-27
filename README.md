@@ -25,9 +25,9 @@ This guide provides step-by-step instructions to configure the Arduino IDE for w
 3. Scroll to the "Additional Boards Manager URLs" field and click the blue icon to open the input field.
 4. Add the following URLs:
 ```bash
-cd haria_ROS/haria_ws](https://dl.espressif.com/dl/package_esp32_index.json
+https://dl.espressif.com/dl/package_esp32_index.json
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-https://arduino.esp8266.com/stable/package_esp8266com_index.json)
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 5. Click **OK** to save and close the Preferences window.
 
